@@ -1,0 +1,23 @@
+.w-100-full-h {
+    height: calc(100vh - 54px);
+    /* border: 2px solid red;*/
+    width: 1980px;
+    background-image: url("https://www.eypae.com/sites/default/files/styles/medium_4_3/public/fulton%20thumb.jpg?itok=ynz8tODg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(50%);
+    color: white;
+}
+
+.page-section {
+    padding: 6rem 0
+}
+
+.section-heading {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.section-subheading {
+    margin-bottom: 4rem;
+}
